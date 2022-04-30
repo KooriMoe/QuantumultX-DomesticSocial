@@ -1,0 +1,40 @@
+# > Zhihu
+host-keyword,zhihu,DomesticSocial
+host-suffix,zhihu.com,DomesticSocial
+
+# > WeChat Official Accounts
+host-suffix,mp.weixin.qq.com,DomesticSocial
+
+# > Umeng
+host-suffix,umeng.com,Reject
+
+# > IPIP.net
+host-suffix,api.ipip.net,DomesticSocial
+
+# > Weibo
+host-keyword,weibo,DomesticSocial
+host-suffix,weibo.com,DomesticSocial
+host-suffix,weibo.cn,DomesticSocial
+
+# > Weibo Api
+host-suffix,api.weibo.cn,DomesticSocial
+host-suffix,api.weibo.com,DomesticSocial
+host-suffix,dns.weibo.cn,DomesticSocial
+
+# > Weibo CDN
+host-suffix,weibocdn.com,DomesticSocial
+
+# > Weibo Client & SDK
+host-suffix,wbapp.mobile.sina.cn,Reject
+host-suffix,sdkapp.mobile.sina.cn,Reject
+
+# > Weibo Img
+host-suffix,sinajs.cn,DomesticSocial
+host-suffix,vip.storage.weibo.com,DomesticSocial
+host-suffix,simg.s.weibo.com,DomesticSocial
+host-suffix,sinaimg.cn,DomesticSocial
+host-suffix,miaozhen.com,DomesticSocial
+host-suffix,data.kuiniuca.com,DomesticSocial
+
+# > Weibo Live
+host-suffix,live.weibo.com,DomesticSocial
