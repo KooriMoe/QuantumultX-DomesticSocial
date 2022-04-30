@@ -1,6 +1,8 @@
 # > Zhihu
 host-keyword,zhihu,DomesticSocial
 host-suffix,zhihu.com,DomesticSocial
+host,api.zhihu.com,DomesticSocial
+USER-AGENT,osee2unifiedRelease*,DomesticSocial
 
 # > WeChat Official Accounts
 host-suffix,mp.weixin.qq.com,DomesticSocial
